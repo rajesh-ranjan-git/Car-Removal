@@ -1,0 +1,94 @@
+<div class="container-fluid footer_section">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6 image_round">
+					</div>
+					<div class="col-sm-6">
+					<h1>Cash for Used and Scrap<br>Cars in Adelaide</h1>
+					<p>If you've any used, old, scrap or junk car that you want to get rid of, the the easiest way is to call HS Car Removals Adelaide. Being one of the reputed car wreckers in Adelaide, we buy unwanted cars, vans, trucks, 4wds and UTEs in Adelaide and we give cash on spot on same day.Doesn't matter if it's running or not running, scrap or junk, damaged or worn out.</p>
+					<p>We'll still give you cash for vehicle in any condition. We are car dismatlers in Adelaide of every make, model and year. We offer cash for damaged cars for sale in Adelaide and we are widely acclaimed for our car removals and car wreckers' services in all suburbs of Adelaide.</p>
+					</div>
+				</div>
+				<div class="row">
+					
+					<ul class="choose">
+						Why to choose us?
+						<li>
+							<i class="fa fa-check" aria-hidden="true"></i>
+							The Easiest
+						</li>
+						<li>
+							<i class="fa fa-check" aria-hidden="true"></i>
+							Reliable
+						</li>
+						<li>
+							<i class="fa fa-check" aria-hidden="true"></i>
+							Quickest
+						</li>
+						<li>
+							<i class="fa fa-check" aria-hidden="true"></i>
+							Sell An Unwanted
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid footer_container">
+		Call to our vehicle evaluation expert on <span style="color:#FFA500;">0882 504 663, 0470 473 858,0415 500 301</span>
+		</div>
+		
+		
+		
+		
+		--------------------------------css-------------------------------------
+		.footer_section{
+		margin-top:40px;
+}
+
+.image_round {
+	width:400px;
+	height:400px;
+	margin-left:130px;
+	padding-top:50px;
+	background-image:url(../images/car-hand.png);
+	border-radius:100%;
+	border:4px solid white;
+}
+.footer_section{
+	background-image:url(../images/footer_image.png);
+	height:605px;
+	background-size:contain;
+}
+.footer_section h1{
+	font-weight:bold;
+}
+.footer_section p{
+	font-weight:bold;
+}
+.div_abs{
+	position:relative;
+	top:100px;
+	left:150px;
+}
+.div_abs h3{
+	font-weight:bold;
+}
+.div_abs li{
+	font-weight:bold;
+}
+
+.choose {
+	list-style-type:none;
+	font-size:22px;
+	font-weight:bold;
+	padding-top:30px;
+	padding-left:160px;
+}
+
+.choose li {
+	font-size:15px;
+}
+
+.fa {
+	color:rgb(140, 198, 63);
+}
